@@ -1,6 +1,6 @@
 {
   "name": "base32kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny, isomorphic Base32 codec — RFC 4648, base32hex, and Crockford, between string and Uint8Array. Zero dependencies.",
   "keywords": [
     "base32",
